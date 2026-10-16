@@ -1,2 +1,2 @@
-# Back-end-Harjoitusty-
+# Back-end-Harjoitustyö
 Back-end kurssilla tehty harjoitustyö
